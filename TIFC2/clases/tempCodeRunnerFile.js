@@ -1,0 +1,2 @@
+
+                    Edad: ${this.edad}\n

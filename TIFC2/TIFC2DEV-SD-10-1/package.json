@@ -1,0 +1,16 @@
+{
+  "name": "sd-10-1-moduleslab-individual",
+  "version": "1.0.0",
+  "description": "Laboratorio individual SD-10: exportacion de funciones y clases con modulos en JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "pytest test.py"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
