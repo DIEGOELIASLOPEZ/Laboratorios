@@ -1,0 +1,6 @@
+.alert,h3,h4{
+    cursor: pointer;
+}
+.alert:hover{
+    text-decoration: underline ;
+}

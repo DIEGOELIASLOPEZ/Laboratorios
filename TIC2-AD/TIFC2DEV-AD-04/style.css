@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.rice-span:hover,
+.burger-town:hover,
+h3:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}

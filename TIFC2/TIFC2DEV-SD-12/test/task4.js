@@ -1,5 +1,5 @@
 // Task 4: delUser(number)
-import { getServerURL } from '../test/task1'
+import { getServerURL } from "./task1.js";
 
 export async function delUser(userId) {
 

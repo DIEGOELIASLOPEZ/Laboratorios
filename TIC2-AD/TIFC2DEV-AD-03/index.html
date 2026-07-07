@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E3</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js"></script>
+</head>
+
+<body>
+    <h1>Demostracion</h1>
+    <p class="alert" onclick="alertText()">Click Here!</p>
+
+    <h2>1. Alert Button </h2>
+    <button onclick="alertButton()"> Click Here</button>
+
+    <h3 onclick="Red(this, 'sentences')">2. Change the next Sentences in color Red</h3>
+    <p id="sentences"> The apple are red</p>
+
+    <!-- Only the word red in color red -->
+    <h4 onclick="Red(this, 'only-span')">3. Only the word red paint in color red </h4>
+    <p> The apple are <span id="only-span">red</span></p>
+
+</body>
+
+</html>

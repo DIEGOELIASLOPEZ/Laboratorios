@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  color: green;
+}
+
+.blue {
+  color: blue;
+}
+
+img {
+  width: 20%;
+}
+
+#red {
+  color: red;
+}
+
+#brown {
+  cursor: pointer;
+}
+
+button {
+  color: white;
+  cursor: pointer;
+  padding: 20px;
+  border-radius: 25px;
+}
+
+#naranja-btn {
+  background-color: orange;
+}
+
+#naranja-btn:hover {
+  background-color: rgb(218, 143, 3);
+}
+
+#goodbye-btn{
+  background-color: rgb(46, 140, 247);
+}
+#goodbye-btn:hover{
+  background-color: rgb(32, 94, 165);
+}
