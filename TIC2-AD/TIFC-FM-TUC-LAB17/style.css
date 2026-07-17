@@ -1,0 +1,31 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+
+.container-md{
+  margin-top: 3rem;
+}
+
+.encabezado{
+  background-color: rgb(103, 35, 180);
+  color: white;
+}
+
+.contenido{
+  border: 1px solid black;
+  padding: 1rem;
+}
+
+.pie-pagina{
+text-align: center;
+background-color: rgb(224, 176, 42);
+}
+
+.full-grid{
+  border: 2px solid black;
+}
+
+.grid-1{
+  border-right: 2px solid black;;
+}

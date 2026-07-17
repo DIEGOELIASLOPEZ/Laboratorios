@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+.container-xl {
+  margin-top: 5rem;
+  /* border: 2px solid rgba(71, 71, 71, 0.458); */
+}
+
+
+.text-center {
+  color: red;
+  font-weight: 900;
+}
+
+.card-body--btn {
+  display: flex;
+  justify-content: space-around;
+}
+
+.card {
+  transition: transform .3s ease-in-out;
+}
+
+.card:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
